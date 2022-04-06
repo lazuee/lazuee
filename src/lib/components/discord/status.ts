@@ -12,7 +12,10 @@ export function status(data: Readable<LanyardData | undefined>) {
 			return 'bg-green-500';
 		} else if ($data?.active_on_discord_mobile) {
 			return 'bg-green-500';
+		} else if ($data?.active_on_discord_web) {
+			return 'bg-green-500';
 		}
+
 		return 'bg-gray-500';
 	});
 }
