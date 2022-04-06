@@ -75,6 +75,7 @@ export interface LanyardData {
 	activities: LanyardDiscordActivity[];
 	active_on_discord_mobile: boolean;
 	active_on_discord_desktop: boolean;
+	active_on_discord_web: boolean;
 	heartbeat_interval: number;
 }
 
