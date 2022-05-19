@@ -34,6 +34,6 @@ I also love discovering and getting more information about new languages or fram
 so feel free to send me a message with your recommendations on Discord!
 ```
 
-<a href="https://discord.com/users/822758455604543491">
-  <img src="https://lanyard-profile-readme.vercel.app/api/822758455604543491?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." alt="Discord account" align="right" />
-</a>
+<p align="center">
+<img src="https://raw.githubusercontent.com/lazuee/lazuee/output/github-contribution-grid-snake.svg" />
+</p>
