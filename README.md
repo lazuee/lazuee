@@ -18,11 +18,6 @@ Welcome to my github page! My name is Lazuee a code-enthusiast from the Philippi
 My Hobby is to read Manga when I have some free time or when I am not coding.
 ```
 
-### Projects 📁
-
-```diff
-Almost all of my projects yet are open-sourced and are available on my github profile.
-```
 ### Skills & Tools 🖱️
 
 ```diff
