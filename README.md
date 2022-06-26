@@ -1,8 +1,3 @@
-<div align="left">
-<a href="https://app.daily.dev/lazuee">
-  <img width="200" align="right" src="https://github.com/lazuee/lazuee/blob/main/devcard.svg" alt="lazuee Dev Card"/>  
-</a>
-</div>
 
 <h2 align="center">
   <a href="#">
@@ -17,6 +12,13 @@
   <img width="370px" src="https://github-readme-streak-stats.herokuapp.com?user=lazuee&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&sideNums=565F89&sideLabels=8897D9&fire=8491D2&ring=565F89&dates=8472C5AB&currStreakNum=8472C5&currStreakLabel=8472C5&stroke=DD272700" />
   </a>
 </p> --->
+
+<div align="left">
+<a href="https://app.daily.dev/lazuee">
+  <img width="200" align="right" src="https://github.com/lazuee/lazuee/blob/main/devcard.svg" alt="lazuee Dev Card"/>  
+</a>
+</div>
+
 
 ### Introduction 📖
 <p>
@@ -34,5 +36,5 @@ When I need to build things, I usually use Node.js because i have fun making dis
 <!--START_SECTION:activity-->
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/lazuee/lazuee/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/lazuee/lazuee/output/github-contribution-grid-snake.svg"/>
 </p>
