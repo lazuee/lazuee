@@ -34,6 +34,12 @@ When I need to build things, I usually use Node.js because i have fun making dis
 ### Recent Activity :zap:
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#194](https://github.com/univrsal/input-overlay/issues/194) in [univrsal/input-overlay](https://github.com/univrsal/input-overlay)
+2. 💪 Opened PR [#73](https://github.com/project-error/fivem-react-boilerplate-lua/pull/73) in [project-error/fivem-react-boilerplate-lua](https://github.com/project-error/fivem-react-boilerplate-lua)
+3. 💪 Opened PR [#2940](https://github.com/HospitalRun/hospitalrun-frontend/pull/2940) in [HospitalRun/hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend)
+4. 🎉 Merged PR [#2](https://github.com/lazuee/github-slideshow/pull/2) in [lazuee/github-slideshow](https://github.com/lazuee/github-slideshow)
+5. 🎉 Merged PR [#5](https://github.com/lazuee/github-slideshow/pull/5) in [lazuee/github-slideshow](https://github.com/lazuee/github-slideshow)
+<!--END_SECTION:activity-->
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/lazuee/lazuee/output/github-contribution-grid-snake.svg"/>
