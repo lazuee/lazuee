@@ -33,8 +33,6 @@ When I need to build things, I usually use Node.js because i have fun making dis
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/lazuee/lazuee/output/github-contribution-grid-snake.svg" />
 </p>
