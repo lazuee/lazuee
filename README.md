@@ -29,6 +29,12 @@ Welcome to my github page! My name is Lazuee a code-enthusiast from the Philippi
 When I need to build things, I usually use Node.js because i have fun making discord bots, open-source projects, APIs and for the database. Also, I prefer to use MongoDB since it is so simple and nice. I also love discovering and getting more information about new languages or frameworks for my upcoming projects, so feel free to send me a message with your recommendations on Discord!
 </p>
 
+### Recent Activity :zap:
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/lazuee/lazuee/output/github-contribution-grid-snake.svg" />
 </p>
