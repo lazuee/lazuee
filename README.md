@@ -1,3 +1,9 @@
+<div align="left">
+<a href="https://app.daily.dev/lazuee">
+  <img width="200" align="right" src="https://github.com/lazuee/lazuee/blob/main/devcard.svg" alt="lazuee Dev Card"/>  
+</a>
+</div>
+
 <h2 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?color=565f89&lines=Hey+there!;I'm+lazuee&center=true&size=30" /></br>
@@ -13,21 +19,15 @@
 </p> --->
 
 ### Introduction 📖
-```diff
-Welcome to my github page! My name is Lazuee a code-enthusiast from the Philippines.
-My Hobby is to read Manga when I have some free time or when I am not coding.
-```
+<p>
+Welcome to my github page! My name is Lazuee a code-enthusiast from the Philippines. My Hobby is to read Manga when I have some free time or when I am not coding.
+</p>
 
 ### Skills & Tools 🖱️
 
-```diff
-When I need to build things, I usually use Node.js because i have fun making discord bots,
-open-source projects, APIs and for the database. Also, I prefer to use MongoDB
-since it is so simple and nice. 
-
-I also love discovering and getting more information about new languages or frameworks for my upcoming projects,
-so feel free to send me a message with your recommendations on Discord!
-```
+<p>
+When I need to build things, I usually use Node.js because i have fun making discord bots, open-source projects, APIs and for the database. Also, I prefer to use MongoDB since it is so simple and nice. I also love discovering and getting more information about new languages or frameworks for my upcoming projects, so feel free to send me a message with your recommendations on Discord!
+</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/lazuee/lazuee/output/github-contribution-grid-snake.svg" />
