@@ -21,15 +21,12 @@
 
 
 ### Introduction 📖
-<p>
-Welcome to my github page! My name is Lazuee a code-enthusiast from the Philippines. My Hobby is to read Manga when I have some free time or when I am not coding.
-</p>
+
+Welcome to my github page! I'm Lazuee a code-enthusiast from the Philippines. My Hobby is to read Manga when I have some free time or when I am not coding.
 
 ### Skills & Tools 🖱️
 
-<p>
 When I need to build things, I usually use Node.js because i have fun making discord bots, open-source projects, APIs and for the database. Also, I prefer to use MongoDB since it is so simple and nice. I also love discovering and getting more information about new languages or frameworks for my upcoming projects, so feel free to send me a message with your recommendations on Discord!
-</p>
 
 ### Recent Activity :zap:
 
@@ -41,6 +38,15 @@ When I need to build things, I usually use Node.js because i have fun making dis
 5. 🎉 Merged PR [#5](https://github.com/lazuee/github-slideshow/pull/5) in [lazuee/github-slideshow](https://github.com/lazuee/github-slideshow)
 <!--END_SECTION:activity-->
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/lazuee/lazuee/output/github-contribution-grid-snake.svg"/>
-</p>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://gh-stats.didinele.me/api/?username=lazuee&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true"/>
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://gh-stats.didinele.me/api/top-langs/?username=lazuee&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
+    </td>
+  </tr>
+</table>
+
+<img align="center" style="padding=0;" src="https://raw.githubusercontent.com/lazuee/lazuee/output/github-contribution-grid-snake.svg"/>
