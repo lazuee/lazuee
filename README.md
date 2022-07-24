@@ -2,6 +2,7 @@
 <h3 align="center">
     <a href="#"> 
     <img src="https://readme-typing-svg.herokuapp.com?color=565f89&lines=Hey+there!;I'm+lazuee&center=true&size=30" />
+    </a>
 </h3>
 
 ```sh-session
@@ -11,6 +12,7 @@
 ```
 
 <h2 align="center">
+    <a href="#"> 
     <img src="https://komarev.com/ghpvc/?username=lazuee&label=Profile%20Views&color=565f89&style=flat&label=Visitors" alt="Visitors">
     <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=565f89&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lazuee" alt="Profile Stars">
     <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=565f89&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/lazuee" alt="Profile Forks">
