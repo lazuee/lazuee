@@ -48,7 +48,7 @@ Welcome to my github page! I'm Lazuee a code-enthusiast from the Philippines. My
 
 When I need to build things, I usually use Node.js because i have fun making discord bots, open-source projects, APIs and for the database. Also, I prefer to use MongoDB since it is so simple and nice. I also love discovering and getting more information about new languages or frameworks for my upcoming projects, so feel free to send me a message with your recommendations on Discord!
 
-### Recent Activity :zap:
+### Recent Activity ✨
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#194](https://github.com/univrsal/input-overlay/issues/194) in [univrsal/input-overlay](https://github.com/univrsal/input-overlay)
@@ -58,15 +58,9 @@ When I need to build things, I usually use Node.js because i have fun making dis
 5. 🎉 Merged PR [#5](https://github.com/lazuee/github-slideshow/pull/5) in [lazuee/github-slideshow](https://github.com/lazuee/github-slideshow)
 <!--END_SECTION:activity-->
 
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://gh-stats.didinele.me/api/?username=lazuee&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true"/>
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://gh-stats.didinele.me/api/top-langs/?username=lazuee&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
-    </td>
-  </tr>
-</table>
+### Expertise ⛳
+
+<img align="left" style="padding=0;width=50%;" src="https://gh-stats.didinele.me/api/top-langs/?username=lazuee&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
+<img align="left" style="padding=0;width=50%;" src="https://gh-stats.didinele.me/api/?username=lazuee&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true"/>
 
 <img align="center" style="padding=0;" src="https://raw.githubusercontent.com/lazuee/lazuee/output/github-contribution-grid-snake.svg"/>
