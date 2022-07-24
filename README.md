@@ -14,10 +14,16 @@
 <h2 align="center">
     <a href="#"> 
     <img src="https://komarev.com/ghpvc/?username=lazuee&label=Profile%20Views&color=565f89&style=flat&label=Visitors" alt="Visitors">
+    </a>
+    <a href="#"> 
     <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=565f89&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lazuee" alt="Profile Stars">
+    </a>
+    <a href="#"> 
     <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=565f89&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/lazuee" alt="Profile Forks">
     </a>
-    <a href="https://discord.gg/He4UVdHmj5" target="_blank"> <img src="https://discordapp.com/api/guilds/969965106471514212/widget.png?style=shield" alt="shield.png"></a>
+    <a href="https://discord.gg/He4UVdHmj5" target="_blank">
+    <img src="https://discordapp.com/api/guilds/969965106471514212/widget.png?style=shield" alt="Join Now">
+    </a>
 </h2>
 
 <!---<p align="center">
