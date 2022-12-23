@@ -34,7 +34,7 @@ I have extensive experience with JavaScript and the MERN stack (MongoDB, Express
 |            | Links                                                       |
 | ---------- | ----------------------------------------------------------- |
 | Github     | https://github.com/lazuee                                   |
-| Discord    | https://discord.gg/5nefPuJPHg                               |
+| Discord    | https://discord.gg/He4UVdHmj5                               |
 | Twitter    | https://twitter.com/lazuee                                  |
 | Portfolio  | https://lazuee.vercel.app                                   |
 
