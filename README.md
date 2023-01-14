@@ -31,10 +31,11 @@ Hello! I'm Lazuee, a passionate Code Enthusiast and a MERN Stack dev. I am a sel
 I have extensive experience with JavaScript and the MERN stack (MongoDB, Express, React, and Node.js). I am highly proficient in HTML5 and CSS3, and have a strong understanding of web development best practices and user experience design. I am also familiar with other popular frameworks and libraries such as NextJS, Svelte, TailwindCSS and Bootstrap.
 
 ### Links
-|            | Links                                                       |
+|            | Where can you find me?                                      |
 | ---------- | ----------------------------------------------------------- |
+| Discord    | Lazuee#4070                                                 |
+| Community  | https://discord.gg/He4UVdHmj5                               |
 | Github     | https://github.com/lazuee                                   |
-| Discord    | https://discord.gg/He4UVdHmj5                               |
 | Twitter    | https://twitter.com/lazuee                                  |
 | Portfolio  | https://lazuee.vercel.app                                   |
 
