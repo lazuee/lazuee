@@ -63,3 +63,4 @@ Hi there! My name is ` John Marlo `, just call me ` Lazuee `. I'm a ` 20 ` year 
   </kbd>
 
 <h6 align="right">Made with <img width="24px" style="margin: -7px 0" src="https://github.com/lazuee/lazuee/assets/91590512/3ceef0c2-0376-4aee-85c1-d3c1c5cb8153" /> by <a href="https://github.com/lazuee">lazuee</a></h6>
+  
