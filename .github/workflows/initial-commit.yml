@@ -11,10 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - shell: bash
-        run: |
-          echo ${{github.event_name}}
-          exit 1
-        if: github.event_name == 'pull_request'
+        run: exit 1
+        if: ${{ github.event_name == 'pull_request' || (github.event_name == 'push' && !contains( github.event.head_commit.message, 'Merge pull request')) }}
 
       - uses: actions/checkout@v3      
         with:
