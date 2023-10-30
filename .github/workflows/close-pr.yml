@@ -7,7 +7,9 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-    - name: Close Pull
-      run: gh pr close --comment "PRs aren't allowed in this repository." --delete-branch
-      env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Close Pull
+        uses: peter-evans/close-pull@v3
+        with:
+          pull-request-number: 1
+          comment: PRs aren't allowed.
+          delete-branch: true
