@@ -6,11 +6,12 @@ on:
 
 
 jobs:
-  close-pull-request:
+  rebase:
     runs-on: ubuntu-latest
-    name: Close Pull Request
     steps:
-      - uses: codelytv/no-pull-requests@v1
+      - name: Close Pull
+        uses: peter-evans/close-fork-pulls@v2
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          message: 🙅 We don't accept Pull Requests!
+          comment: |
+            Sorry. Pull requests are not accepted for this repository.
+            Auto-closing this pull request.
