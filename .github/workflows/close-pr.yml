@@ -1,15 +1,18 @@
-name: Close Pull Request
+name: Close Fork Pulls
 on:
-  pull_request_target:
-    types: [opened]
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 0 * * *'
+
+permissions: write-all
 
 jobs:
-  run:
+  rebase:
     runs-on: ubuntu-latest
     steps:
       - name: Close Pull
-        uses: peter-evans/close-pull@v3
+        uses: peter-evans/close-fork-pulls@v2
         with:
-          pull-request-number: 1
-          comment: PRs aren't allowed.
-          delete-branch: true
+          comment: |
+            Sorry. Pull requests are not accepted for this repository.
+            Auto-closing this pull request.
