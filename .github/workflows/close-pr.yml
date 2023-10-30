@@ -7,7 +7,7 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-    - uses: superbrothers/close-pull-request@v3
-      with:
-        # Optional. Post a issue comment just before closing a pull request.
-        comment: "We do not accept PRs on this repository."
+    - name: Close Pull
+      run: gh pr close --comment "PRs aren't allowed in this repository." --delete-branch
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
