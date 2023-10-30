@@ -1,18 +1,13 @@
-name: PR Closer
+name: Close Pull Request
 on:
-  workflow_dispatch:
-  schedule:
-    - cron:  '0 0 * * *'
-
-permissions: write-all
+  pull_request_target:
+    types: [opened]
 
 jobs:
-  rebase:
+  run:
     runs-on: ubuntu-latest
     steps:
-      - name: Close Pull
-        uses: peter-evans/close-fork-pulls@v2
-        with:
-          comment: |
-            Sorry. Pull requests are not accepted for this repository.
-            Auto-closing this pull request.
+    - uses: superbrothers/close-pull-request@v3
+      with:
+        # Optional. Post a issue comment just before closing a pull request.
+        comment: "We do not accept PRs on this repository."
