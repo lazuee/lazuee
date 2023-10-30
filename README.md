@@ -51,7 +51,7 @@ Hi there! My name is ` John Marlo `, just call me ` Lazuee `. I'm a ` 20 ` year 
     <br>
     <br>
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+    <img width="40px" src="https://skillicons.dev/icons?i=express" />
   </kbd>
   <kbd>
     <kbd> <b>Database</b> </kbd>
