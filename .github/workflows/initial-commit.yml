@@ -10,15 +10,15 @@ jobs:
   commit:
     runs-on: ubuntu-latest
     steps:
-      - name: Dump GitHub context
-        env:
-          GITHUB_CONTEXT: ${{ toJson(github) }}
-        run: echo "$GITHUB_CONTEXT"
-      - shell: bash
-        run: exit 1
-        if: ${{ github.event_name == 'pull_request' || (github.event_name == 'push' && !contains( github.event.head_commit.message, 'Merge pull request')) }}
+      - name: Close Fork Pulls
+        uses: peter-evans/close-fork-pulls@v2
+        with:
+          comment: |
+            Sorry, pull requests are not accepted for this repository. 
+            We are closing this PR to prevent force-push.
 
-      - uses: actions/checkout@v3      
+      - name: Checkout
+        uses: actions/checkout@v3      
         with:
          persist-credentials: false
          fetch-depth: 0
