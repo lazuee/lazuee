@@ -1,8 +1,8 @@
 name: Initial commit
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "25 * * * *" # See https://crontab.guru/#25_*_*_*_*
+  #schedule:
+  #- cron: "25 * * * *" # See https://crontab.guru/#25_*_*_*_*
 
 permissions: write-all
 
