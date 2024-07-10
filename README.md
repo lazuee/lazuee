@@ -24,3 +24,11 @@ A Code enthusiast and a passionate self-taught developer from Philippines <br>pr
 </p>
 
 ##
+
+```
+˚∧＿∧  　+        —̳͟͞͞⭐
+(  •‿• )つ  —̳͟͞͞ ⭐         —̳͟͞͞⭐ +    Don't Forget to Star my repositories!
+(つ　 <                —̳͟͞͞⭐          Click the "Follow Me" Button, you will see MAGIC ~~
+｜　 _つ      +  —̳͟͞͞⭐         —̳͟͞͞⭐ ˚
+`し´
+```
