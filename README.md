@@ -1,8 +1,8 @@
 <div align="left">
-    <a href="https://www.facebook.com/lazuee"><img src="https://img.shields.io/badge/-lazuee-0866FF?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/lazuee"/></a>
-    <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=lazuee"><img src="https://img.shields.io/badge/-lazuee-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=lazuee"/></a>
-<a href="https://x.com/intent/follow?screen_name=lazuee"><img src="https://img.shields.io/badge/-lazuee-1c1c1c?style=flat&logo=x&logoColor=white&link=https://twitter.com/lazuee"/></a>
-    <a href="https://discord.com/users/822758455604543491"><img src="https://img.shields.io/badge/-lazuee-3F4EEE?style=flat&logo=discord&logoColor=white&link=https://discord.com/users/822758455604543491"/></a>
+    <a href="https://dub.sh/lazuee.facebook"><img src="https://img.shields.io/badge/-lazuee-0866FF?style=flat&logo=facebook&logoColor=white&link=https://dub.sh/lazuee.facebook"/></a>
+    <a href="https://dub.sh/lazuee.linked"><img src="https://img.shields.io/badge/-lazuee-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://dub.sh/lazuee.linked"/></a>
+<a href="https://dub.sh/lazuee.x"><img src="https://img.shields.io/badge/-lazuee-1c1c1c?style=flat&logo=x&logoColor=white&link=https://dub.sh/lazuee.x"/></a>
+    <a href="https://dub.sh/lazuee.discord"><img src="https://img.shields.io/badge/-lazuee-3F4EEE?style=flat&logo=discord&logoColor=white&link=https://dub.sh/lazuee.discord"/></a>
     <img align="right" src="https://komarev.com/ghpvc/?username=lazuee&label=Profile+Views&color=03C75A&style=flat" alt="Views"/>
 </div>
 
